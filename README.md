@@ -1,4 +1,4 @@
-## Lab Class : Class 37 edited
+## Lab Class : Class 37
 
 ## Lab Cookie-Stand-Admin
 
